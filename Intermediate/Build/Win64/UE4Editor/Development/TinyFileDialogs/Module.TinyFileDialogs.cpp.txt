@@ -1,0 +1,114 @@
+U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Intermediate\Build\Win64\UE4Editor\Development\TinyFileDialogs\Definitions.TinyFileDialogs.h
+U:/UnrealProjects/Blank424/Plugins/TinyFileDialogs/Source/TinyFileDialogs/Private/TinyFileDialogs.cpp
+U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Source\TinyFileDialogs\Public\TinyFileDialogs.h
+Z:\Unreal Engine Repository\4.24\Engine\Source\Runtime\Core\Public\Core.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\HAL/PlatformFile.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/MessageDialog.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/StringUtility.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Containers/MRUArray.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Containers/TransArray.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\HAL/ThreadManager.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Containers/StaticBitArray.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Containers/MapBuilder.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\HAL/ThreadingBase.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Internationalization/Culture.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\HAL/OutputDevices.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/TimeGuard.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/BufferArchive.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/ArrayReader.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Serialization/BufferWriter.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/WildcardString.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Containers/CircularQueue.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/CallbackDevice.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/EditorObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+z:\unreal engine repository\4.24\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+Z:\Unreal Engine Repository\4.24\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+Z:\Unreal Engine Repository\4.24\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+z:\unreal engine repository\4.24\engine\source\runtime\projects\public\ModuleDescriptor.h
+z:\unreal engine repository\4.24\engine\source\runtime\projects\public\CustomBuildSteps.h
+z:\unreal engine repository\4.24\engine\source\runtime\projects\public\LocalizationDescriptor.h
+z:\unreal engine repository\4.24\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+U:/UnrealProjects/Blank424/Plugins/TinyFileDialogs/Source/TinyFileDialogs/Private/TinyFileDialogsLib.cpp
+U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Source\TinyFileDialogs\Public\TinyFileDialogsLib.h
+U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Intermediate\Build\Win64\UE4Editor\Inc\TinyFileDialogs\TinyFileDialogsLib.generated.h
+U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Source\ThirdParty/TinyFileDialogsLibrary/TinyFileDialogs/inc/tinyfiledialogs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h

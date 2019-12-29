@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TinyFileDialogs.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\Unreal Engine Repository\4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Intermediate\Build\Win64\UE4Editor\Development\TinyFileDialogs\Module.TinyFileDialogs.cpp.obj"
+"U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Intermediate\Build\Win64\UE4Editor\Development\TinyFileDialogs\Module.TinyFileDialogs.gen.cpp.obj"
+"Z:\Unreal Engine Repository\4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"U:\UnrealProjects\Blank424\Plugins\TinyFileDialogs\Intermediate\Build\Win64\UE4Editor\Development\TinyFileDialogs\UE4Editor-TinyFileDialogs.lib"
+/INCLUDE:IMPLEMENT_MODULE_TinyFileDialogs
