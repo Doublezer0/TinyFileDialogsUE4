@@ -5,8 +5,6 @@ Copyright 2019 - f00n.com - Marc Rogerson
 
 : **Installation**
 * Simply add to the Plugin directory of a UE4 project
-* Make sure to add TinyFileDialogsLibrary to your project build.cs
-  * ![TinyFileDialogs Dependency](https://github.com/Doublezer0/TinyFileDialogsUE4/blob/master/Documentation/img/dependency.JPG)
 
 : **Included Nodes**
 * Show Message Box
