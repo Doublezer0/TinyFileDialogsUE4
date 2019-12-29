@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TinyFileDialogs.cpp.obj": [
+			"TinyFileDialogs.cpp.obj",
+			"TinyFileDialogsLib.cpp.obj"
+		],
+		"Module.TinyFileDialogs.gen.cpp.obj": [
+			"TinyFileDialogs.init.gen.cpp.obj",
+			"TinyFileDialogsLib.gen.cpp.obj"
+		]
+	}
+}
