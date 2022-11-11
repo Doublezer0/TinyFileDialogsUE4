@@ -1,5 +1,5 @@
 # TinyFileDialogsUE4
-A plugin that adds the TinyFileDialogs cross-platform lib as accessible blueprint nodes for Unreal Engine 4.
+A plugin that adds the TinyFileDialogs cross-platform lib as accessible blueprint nodes for Unreal Engine 4. Original source for TinyFileDialog can be found at http://tinyfiledialogs.sourceforge.net
 
 Copyright 2019 - f00n.com - Marc Rogerson
 
